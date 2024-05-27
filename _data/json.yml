@@ -3,11 +3,11 @@
 
 - key: description
   value:
-    - Hello!
-    - This is just a landing
-    - page for hcornelison.dev
-    - Check out the projects
-    - listed below for more fun.
+    - hello, this is
+    - a landing page for
+    - hcornelison.dev
+    - check out the projects
+    - below for more.
   typed: true
 
 - key: projects
