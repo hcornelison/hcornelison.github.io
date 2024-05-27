@@ -1,7 +1,7 @@
 title: "hcornelison.dev"
 description: ""
-baseurl: "https://hcornelison.dev"
-url: "https://hcornelison.dev"
+baseurl: ""
+url: ""
 
 lowercase: true
 color_bg: var(--oc-gray-9)
