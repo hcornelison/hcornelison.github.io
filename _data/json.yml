@@ -1,6 +1,14 @@
 - key: Name
   value: hcornelison.dev
 
+- key: Description
+  value:
+    - Hello!
+    - This is just a landing
+    - page for hcornelison.dev
+    - Check out the projects
+    - listed below for more fun.
+
 - key: Source
   value: hcornelison/hcornelison.github.io
   url: https://github.com/hcornelison/hcornelison.github.io
