@@ -1,0 +1,16 @@
+- key: Name
+  value: hcornelison.dev
+
+- key: Source
+  value: hcornelison/hcornelison.github.io
+  url: https://github.com/hcornelison/hcornelison.github.io
+
+- key: Profiles
+  value:
+    - value: GitHub
+      url: https://github.com/hcornelison
+
+- key: Links
+  value:
+    - value: Recipes
+      url: https://recipes.hcornelison.dev
