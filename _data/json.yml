@@ -1,6 +1,9 @@
 - key: name
   value: hcornelison.dev
 
+- key: email
+  value: me@hcornelison.dev
+
 - key: description
   value:
     - hello, this is
