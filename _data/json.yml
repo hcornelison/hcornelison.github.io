@@ -17,6 +17,8 @@
   value:
     - value: Recipes
       url: https://recipes.hcornelison.dev
+    - value: blog
+      url: https://blog.hcornelison.dev
 
 - key: source
   value: hcornelison.github.io
